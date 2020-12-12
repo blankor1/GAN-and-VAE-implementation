@@ -1,4 +1,7 @@
 # GAN-and-VAE-implementation
+
+My code of GAN and VAE implementation will be posted here after December 12, 2020.
+
 This is a Machine Learning project. The GAN and VAE network are built and tested using python3 and Pytorch. I trained them on MNIST handwritten digits images dataset. 
 
 This code has been run on the Google cloud server Colaboratory and can generate handwritten digits images successfully.
