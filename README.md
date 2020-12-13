@@ -1,7 +1,5 @@
 # GAN-and-VAE-implementation
 
-My code of GAN and VAE implementation will be posted here after December 12, 2020.
-
 This is a Machine Learning project. The GAN and VAE network are built and tested using python3 and Pytorch. I trained them on MNIST handwritten digits images dataset. 
 
 This code has been run on the Google cloud server Colaboratory and can generate handwritten digits images successfully.
@@ -17,10 +15,10 @@ This code has been run on the Google cloud server Colaboratory and can generate 
 # Reference
 
 [1]J.Rocca,Understanding Generative Adversarial Networks (GANs), Jan 7, 2019.https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29.  
-[2]I.J. Goodfellow, J.Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville,and Y. Bengio, “Generative adversarial networks,” 2014.  
-[3]D.P. Kingma and M. Welling, “Auto-encoding variational bayes,” 2014.  
-[4]N.Bertagnolli,Build a Super Simple GAN in PyTorch,Mar 9, 2020.https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4.  
-[5]J.Rocca,Understanding Variational Autoencoders (VAEs), Jan 7, 2019.https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73.  
+[2]J.Rocca,Understanding Variational Autoencoders (VAEs), Jan 7, 2019.https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73.  
+[3]I.J. Goodfellow, J.Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville,and Y. Bengio, “Generative adversarial networks,” 2014.  
+[4]D.P. Kingma and M. Welling, “Auto-encoding variational bayes,” 2014.  
+[5]N.Bertagnolli,Build a Super Simple GAN in PyTorch,Mar 9, 2020.https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4.  
 [6]kevin  Frans,Variational Autoencoders Explained, Aug 6, 2016.http://kvfrans.com/variational-autoencoders-explained/.
 
 
